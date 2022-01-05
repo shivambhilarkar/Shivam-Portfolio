@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Shivam-Portfolio/static/css/main.0504aa84.css",
+    "main.js": "/Shivam-Portfolio/static/js/main.6c7d0e67.js",
+    "static/media/background2.jpg": "/Shivam-Portfolio/static/media/background2.4ceddd798bda5c2ec52e.jpg",
+    "static/media/chatbot.png": "/Shivam-Portfolio/static/media/chatbot.dd930ee4eaf9413872b4.png",
+    "static/media/covidtracker.png": "/Shivam-Portfolio/static/media/covidtracker.3bcfe2114e3a3d2db948.png",
+    "static/media/devlogo.png": "/Shivam-Portfolio/static/media/devlogo.f4b45d2a3da973388ab9.png",
+    "static/media/javascript.png": "/Shivam-Portfolio/static/media/javascript.83903b30822753b81ed1.png",
+    "static/media/videologo.png": "/Shivam-Portfolio/static/media/videologo.219b7cab26b44b0a67f1.png",
+    "static/media/linkedin.png": "/Shivam-Portfolio/static/media/linkedin.a680cb8ad2b88be03d17.png",
+    "static/media/bootstrp.png": "/Shivam-Portfolio/static/media/bootstrp.02e16df6861464872846.png",
+    "static/media/leetcode.png": "/Shivam-Portfolio/static/media/leetcode.c79f333b12595d3eec8f.png",
+    "static/media/database.png": "/Shivam-Portfolio/static/media/database.cd86763da06f05c86ca6.png",
+    "static/media/android.png": "/Shivam-Portfolio/static/media/android.246a7b8abc48a84b2376.png",
+    "static/media/Reactjs.png": "/Shivam-Portfolio/static/media/Reactjs.20adfb35ae6a6e5817bf.png",
+    "static/media/c.png": "/Shivam-Portfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/framework.png": "/Shivam-Portfolio/static/media/framework.1edde919b307e003e1b7.png",
+    "static/media/nodejs.png": "/Shivam-Portfolio/static/media/nodejs.07d152a8a036951b8d14.png",
+    "static/media/mongodb.png": "/Shivam-Portfolio/static/media/mongodb.c964002ecef4971216d0.png",
+    "static/media/mysql.png": "/Shivam-Portfolio/static/media/mysql.fb2a2ea2d6fbcd1314cc.png",
+    "static/media/instagram.png": "/Shivam-Portfolio/static/media/instagram.f16f643fd02df279dfce.png",
+    "static/media/css.png": "/Shivam-Portfolio/static/media/css.99426a611bd5b768e71d.png",
+    "static/media/gymlogo.png": "/Shivam-Portfolio/static/media/gymlogo.30157dcb1abfb995ff7a.png",
+    "static/media/java.png": "/Shivam-Portfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/Shivam-Portfolio/index.html",
+    "main.0504aa84.css.map": "/Shivam-Portfolio/static/css/main.0504aa84.css.map",
+    "main.6c7d0e67.js.map": "/Shivam-Portfolio/static/js/main.6c7d0e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0504aa84.css",
+    "static/js/main.6c7d0e67.js"
+  ]
+}
