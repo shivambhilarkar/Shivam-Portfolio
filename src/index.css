@@ -1,0 +1,217 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* new css */
+  background-image: url("../public/Images/outline/background2.jpg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.card {
+  margin: 10px 30px;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  background: white;
+  padding: 10px;
+  box-shadow: 10px 10px 30px rgb(0, 0, 0);
+}
+
+.card:hover {
+  background: black;
+  color: white;
+}
+.nav_style {
+  /* background: gray; */
+  display: flex;
+  width: 40%;
+  padding: 10px;
+  margin: auto auto;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.nav_button {
+  background: transparent;
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  margin: auto 20px;
+  font-size: large;
+  font-weight: 700;
+  border: 1px solid white;
+  color: white;
+}
+.nav_button:hover {
+  color: black;
+  background-color: white;
+  box-shadow: 5px 5px 15px rgb(0, 0, 0);
+}
+.about_header_h1 {
+  color: rgb(255, 255, 255);
+  font-size: 90px;
+  font-weight: Bold;
+  text-align: center;
+  font-family: "Dancing Script";
+  text-shadow: 7px 7px rgb(0, 0, 0);
+}
+
+.p_style {
+  font-size: 20px;
+  /* font-weight: 100; */
+  font-family: "Dancing Script";
+  text-shadow: 2px 2px black;
+  color: white;
+  text-align: center;
+}
+.p_style_div {
+  background-color: rgba(0, 58, 250, 0.349);
+  padding: 10px;
+  border-radius: 20px;
+  width: 60%;
+  margin: auto auto;
+}
+
+.nav_footer {
+  position: absolute;
+  left: 40px;
+  right: 40px;
+  bottom: 5px;
+  width: 30%;
+  margin: auto auto;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.281);
+
+  /* color: white; */
+}
+.nav_social {
+  display: flex;
+  justify-content: center;
+}
+.nav_footer_image {
+  margin: auto 20px;
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.formdiv {
+  width: 30%;
+  margin: auto auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  align-items: center;
+  padding: 30px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.281);
+  border-radius: 20px;
+}
+.formdiv input {
+  width: 100%;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  padding-left: 35px;
+  font-size: 20px;
+  outline: none;
+}
+.formdiv textarea {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 20px;
+  outline: none;
+}
+.formdiv button {
+  width: 50%;
+  border: none;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.formdiv button:hover {
+  background-color: rgba(255, 0, 0, 0.61);
+  font-weight: bold;
+  color: white;
+}
+
+.project_container {
+  width: 95%;
+  border-radius: 20px;
+  border: none;
+  /* background-color: rgba(255, 255, 255, 0.267); */
+  margin: auto auto;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+}
+.project_container_row {
+  display: flex;
+}
+
+.project_card {
+  background-color: rgba(255, 255, 255, 0.589);
+  width: 45%;
+  margin: auto auto;
+  height: 350px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.project_card_title {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.452);
+  border-radius: 20px;
+  margin: 5px;
+}
+
+.project_card_title img {
+  margin-right: 20px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.p_title {
+  background-color: white;
+  padding-top: 20px;
+  /* border-radius: 20px; */
+  width: 66%;
+  text-align: center;
+  border-left: 2px solid rgba(0, 0, 0, 0.637);
+  /* box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.342); */
+}
+.p_details {
+  padding-inline: 20px;
+  font-weight: 500;
+}
+
+.project_card_title span {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 5px;
+}
